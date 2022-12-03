@@ -1,5 +1,7 @@
 import sqlite3
 
+# testiranje baze
+
 conn = sqlite3.connect('catalog.db')
 c = conn.cursor()
 
