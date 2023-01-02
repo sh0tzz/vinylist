@@ -1,0 +1,9 @@
+body {
+    background: #2B3A55;
+}
+
+.main-container {
+    width: 67vw;
+    justify-content: center;
+    margin: 0 auto;
+}
